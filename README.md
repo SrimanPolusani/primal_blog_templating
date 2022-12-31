@@ -1,11 +1,9 @@
-# primal_blog_templating
-This project takes blog information from an API and renders it. 
+<h1>primal_blog_templating</h1>
+<p>This project takes blog information from an API and renders it.</p>
 <br><br>
-Following tools are used to build this project:
-<br>
-Frameworks & Modules: Flask, Jinja and Requests
-<br>
-Backend: Python 3
-<br>
-Frontend: HTML, CSS and JavaScript
-<br>
+<h3>Following tools are used to build this project:</h3>
+<ol>
+  <li>Frameworks & Modules: Flask, Jinja and Requests</li>
+  <li>Backend: Python 3</li>
+  <li>Frontend: HTML, CSS and JavaScript</li>
+</ol>
