@@ -1,7 +1,7 @@
 # primal_blog_templating
 This project takes blog information from an API and renders it. 
-<br>
-This project is built using the following tools:
+<br><br>
+Following tools are used to build this project:
 <br>
 Frameworks & Modules: Flask, Jinja and Requests
 <br>
