@@ -4,5 +4,5 @@
 <ol>
   <li>Frameworks & Modules: Flask, Jinja and Requests</li>
   <li>Backend: Python 3</li>
-  <li>Frontend: HTML, CSS and JavaScript</li>
+  <li>Frontend: HTML and CSS</li>
 </ol>
